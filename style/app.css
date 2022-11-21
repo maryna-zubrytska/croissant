@@ -1,0 +1,31 @@
+body {
+    background-color: #3A3F54;
+    margin-top: 100px;
+}
+
+.image-logo-navbar {
+    max-width: 50px;
+}
+
+.elemnt-01-image {
+    max-width: 150px;
+}
+
+.h1-heading {
+    color: white;
+    margin-bottom: 10px;
+}
+
+p {
+    color: white;
+}
+
+.p-contact {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+.row-custom {
+    margin-bottom: 20px;
+}
